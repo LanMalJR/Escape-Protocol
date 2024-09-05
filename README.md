@@ -1,4 +1,5 @@
-Maze Project
+# Maze Project
+
 Welcome to the Maze Project! The goal of this project is to create a 3D game using raycasting. This README file will guide you through the project requirements, tasks, and additional resources.
 
 Background Context
