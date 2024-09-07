@@ -79,8 +79,10 @@ Ensure your code adheres to the Holberton School coding style and is well docume
 ![GroundTexture](Default_Images/Ground%20texture.png)
 ![GroundTexture1](Default_Images/ground%20texture2.gif)
 10. Weapons
+
 ![Weapons](Default_Images/weapons.gif) 
 11. Enemies
+
 ![Enemies](Default_Images/enemies.jpg)
 
 Check coding style and documentation format.
