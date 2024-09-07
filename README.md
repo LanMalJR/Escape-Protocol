@@ -37,26 +37,26 @@ Functions: You are allowed to use any system calls, standard library functions, 
 Tasks
 0. Walls
 Create a window with SDL2 and use raycasting to draw walls.
-![Walls](walls.png)
+![Walls](Default_Images/walls.png)
 You don’t need camera rotation in this part, but you should be able to change the camera angle and test it after recompiling.
 The wall color must differ from the ground/ceiling color.
 The map can be defined in the code (e.g., using an array).
 
 1. Orientation
 Draw walls in different colors based on their orientation.
-![Orientation](orientation.png)
+![Orientation](Default_Images/orientation.png)
 Distinguish between walls facing NORTH/SOUTH and EAST/WEST.
 
 2. Rotation
 Implement camera rotation during execution.
-![Rotation](rotation.gif)
+![Rotation](Default_Images/rotation.gif)
 Rotate the camera with keyboard arrow keys or mouse movement, similar to FPS games.
 
 3. Move
 Enable camera movement during execution.
-![Move1](move1.gif)
+![Move1](Default_Images/move1.gif)
 Move the camera with W, A, S, D keys.
-![move2](move2.gif)
+![Move2](Default_Images/move2.gif)
 4. Ouch!
 Handle player collisions with walls.
 
@@ -73,6 +73,15 @@ You can customize the map's appearance and allow toggling its visibility.
 Include the player’s line of sight in the map.
 7. Coding Style + Documentation
 Ensure your code adheres to the Holberton School coding style and is well documented.
+8. Texture
+![Texture](Default_Images/texture.png)
+9. Ground texture
+![GroundTexture](Default_Images/Ground%20texture.png)
+![GroundTexture1](Default_Images/ground%20texture2.gif)
+10. Weapons
+![Weapons](Default_Images/weapons.gif) 
+11. Enemies
+![Enemies](Default_Images/enemies.jpg)
 
 Check coding style and documentation format.
 The repository will be checked for adherence to these standards.
