@@ -1,4 +1,5 @@
-# Maze Project
+# Maze Project 
+## (this red me is not final and will be updated as required to meet the standards of the actual game)
 
 Welcome to the Maze Project! The goal of this project is to create a 3D game using raycasting. This README file will guide you through the project requirements, tasks, and additional resources.
 
@@ -88,6 +89,9 @@ Ensure your code adheres to the Holberton School coding style and is well docume
 11. Enemies
 
 ![Enemies](Default_Images/enemies.jpg)
+
+12. 
+Score count
 
 Check coding style and documentation format.
 The repository will be checked for adherence to these standards.
