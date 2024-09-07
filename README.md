@@ -93,5 +93,5 @@ Check coding style and documentation format.
 The repository will be checked for adherence to these standards.
 
 ---
-The project will be written in `C#`
-The environment and game play will be developed in `Unity`
+* The project will be written in `C#`
+* The environment and game play will be developed in `Unity`
