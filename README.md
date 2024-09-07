@@ -6,10 +6,6 @@ Welcome to the Maze Project! The goal of this project is to create a 3D game usi
 Background Context
 The Maze Project involves developing a 3D game using raycasting techniques. Your primary objective is to create a fun and interactive maze game.
 
-Important: Follow the tasks in the order provided, unless a task depends on a previous one. Check out the tutorial links in the Tips and Links section for in-depth guidance and practice.
-
-Have fun with this project!
-
 Requirements
 General
 Compilation: Your files will be compiled on Ubuntu 14.04 LTS using gcc (version 4.8.4).
@@ -90,8 +86,7 @@ Ensure your code adheres to the Holberton School coding style and is well docume
 
 ![Enemies](Default_Images/enemies.jpg)
 
-12. 
-Score count
+12. Score count
 
 Check coding style and documentation format.
 The repository will be checked for adherence to these standards.
