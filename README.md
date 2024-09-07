@@ -73,14 +73,18 @@ You can customize the map's appearance and allow toggling its visibility.
 Include the player’s line of sight in the map.
 7. Coding Style + Documentation
 Ensure your code adheres to the Holberton School coding style and is well documented.
+
 8. Texture
+
 ![Texture](Default_Images/texture.png)
+
 9. Ground texture
 ![GroundTexture](Default_Images/Ground%20texture.png)
 ![GroundTexture1](Default_Images/ground%20texture2.gif)
 10. Weapons
 
 ![Weapons](Default_Images/weapons.gif) 
+
 11. Enemies
 
 ![Enemies](Default_Images/enemies.jpg)
