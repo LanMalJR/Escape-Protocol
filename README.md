@@ -9,7 +9,10 @@ Escape Protocol is a fast-paced survival shooter where players must navigate a m
 
 The game starts with David waking up on the ground floor of a mysterious building. His head is pounding, and he doesn’t remember how he got there. Suddenly, a voice crackles through his earpiece:
 
-John: "David, can you hear me, David?" (shouting)David: "What's up, John?" (groggy, disoriented)John: "Good, you're still alive."John: "The building you're in is about to be blown up. Grab your gun and get out of there!"
+John: "David, can you hear me, David?" (shouting)
+David: "What's up, John?" (groggy, disoriented)
+John: "Good, you're still alive."
+John: "The building you're in is about to be blown up. Grab your gun and get out of there!"
 
 David must act quickly to escape before the timer hits zero.
 
