@@ -9,10 +9,10 @@ Escape Protocol is a fast-paced survival shooter where players must navigate a m
 
 The game starts with David waking up on the ground floor of a mysterious building. His head is pounding, and he doesn’t remember how he got there. Suddenly, a voice crackles through his earpiece:
 
-John: "David, can you hear me, David?" (shouting)
-David: "What's up, John?" (groggy, disoriented)
-John: "Good, you're still alive."
-John: "The building you're in is about to be blown up. Grab your gun and get out of there!"
+* John: "David, can you hear me, David?" (shouting)
+* David: "What's up, John?" (groggy, disoriented)
+* John: "Good, you're still alive."
+* John: "The building you're in is about to be blown up. Grab your gun and get out of there!"
 
 David must act quickly to escape before the timer hits zero.
 
@@ -32,44 +32,38 @@ Rooftop Extraction: Successfully reach the top floor, where a helicopter will ex
 
 ### Controls
 
-WASD - Move
+* WASD - Move
 
-Mouse - Aim
+* Mouse - Aim
 
-Left Click - Shoot
+* Left Click - Shoot
 
-R - Reload
+* R - Reload
 
-Shift - Sprint
+* Shift - Sprint
 
-E - Interact (pick up weapons, open doors)
+* E - Interact (pick up weapons, open doors)
 
 ### Development
 
-Engine: `Unity` & `(C#)`
+* Engine: `Unity` & `(C#)`
 
-Platform: PC (Windows & Linux)
+* Platform: PC (Windows & Linux)
 
-Graphics: 3D, semi-realistic style
+* Graphics: 3D, semi-realistic style
 
-Audio: Immersive sound effects for gunfire, enemy noises, and environmental destruction
+* Audio: Immersive sound effects for gunfire, enemy noises, and environmental destruction
 
 ### Installation
 
-Download the latest release from GitHub.
+* Download the latest release from GitHub.
 
-Extract the files.
+* Extract the files.
 
-Run EscapeProtocol.exe (Windows) or EscapeProtocol.x86_64 (Linux).
+* Run EscapeProtocol.exe (Windows) or EscapeProtocol.x86_64 (Linux).
 
 ### Future Enhancements
 
-Additional weapon choices (shotguns, rifles, grenades).
+* Additional weapon choices (shotguns, rifles, grenades).
 
-More enemy types and boss fights.
-
-
-
-
-
-
+* More enemy types and boss fights.
