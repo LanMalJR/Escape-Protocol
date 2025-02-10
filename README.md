@@ -1,6 +1,6 @@
 # Escape-Protocol 
 ## (this read me is not final and will be updated as required to meet the standards of the actual game)
----
+
 * The project will be written in `C#`
 * The environment and game play will be developed in `Unity`
 
