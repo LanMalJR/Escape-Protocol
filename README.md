@@ -1,9 +1,6 @@
 # Escape-Protocol 
 ## (this read me is not final and will be updated as required to meet the standards of the actual game)
 
-* The project will be written in `C#`
-* The environment and game play will be developed in `Unity`
-
 ### Overview
 
 Escape Protocol is a fast-paced survival shooter where players must navigate a multi-story building overrun with monsters. The objective is to clear enemies, reach the rooftop, and escape via helicopter before time runs out.
@@ -46,7 +43,7 @@ E - Interact (pick up weapons, open doors)
 
 ### Development
 
-Engine: Unity (C#)
+Engine: `Unity` & `(C#)`
 
 Platform: PC (Windows & Linux)
 
