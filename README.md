@@ -7,7 +7,7 @@ Escape Protocol is a fast-paced survival shooter where players must navigate a m
 
 ### Story
 
-The game starts with David waking up on the ground floor of a mysterious building. His head is pounding, and he doesn’t remember how he got there. Suddenly, a voice crackles through his earpiece:
+The game starts with David waking up on the upper floor of a mysterious building. His head is pounding, and he doesn’t remember how he got there. Suddenly, a voice crackles through his earpiece:
 
 * John: "David, can you hear me, David?" (shouting)
 * David: "What's up, John?" (groggy, disoriented)
